@@ -5,8 +5,7 @@ Basic ecommerce website using React+Redux+Tailwind
 [![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://react.dev/) 
 [![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-Enabled-764ABC?logo=redux)](https://redux-toolkit.js.org/) 
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.0-06B6D4?logo=tailwind-css)](https://tailwindcss.com/)  
-[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://vercel.com/) 
-[![Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?logo=netlify)](https://www.netlify.com/)  
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://vercel.com/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
